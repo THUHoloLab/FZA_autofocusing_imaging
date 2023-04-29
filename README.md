@@ -1,5 +1,11 @@
 ## README
 FZA_autofocus imaging is a project to achieve the autofocus in the FZA lensless imaging through the sharpness valuation **WTN** and get a clearer imaging by the **ADMM** algorithm.
+
+## Reference
+Fangyu Liu, Jiachen Wu, and Liangcai Cao, "Autofocusing of Fresnel zone aperture lensless imaging for QR code recognition," Optics Express 31, 15889-15903 (2023).
+https://doi.org/10.1364/OE.489157
+https://opg.optica.org/oe/fulltext.cfm?uri=oe-31-10-15889
+
 #### WTN
 - Before running this programm, confirm whether the parameters are suitable for your experiment if you have changed the input. 
 - The parameters you should pay attention
@@ -35,3 +41,7 @@ FZA_autofocus imaging is a project to achieve the autofocus in the FZA lensless 
 
 #### source
 - the experiment orignal measurement image
+
+#### contact
+- Fangyu Liu, liu-fy21@mails.tsinghua.edu.cn
+- Jiachen Wu, wjc2022@tsinghua.edu.cn
